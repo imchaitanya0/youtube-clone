@@ -38,22 +38,10 @@ If you wish to integrate other languages, libraries, or frameworks.
 
 You can get started by forking this repo and cloning it into your system. Here are some of the git commands you'll be using,
 
-# Clone your forked repo into your local system
-git clone https://github.com/<Your-GitHub-Name>/youtube-clone.git
+![Screenshot from 2023-07-28 16-19-18](https://github.com/imchaitanya0/youtube-clone/assets/108838076/785d0b9f-9132-47d3-a634-deaa7f2c30e3)
 
-# Creating a new branch
-git checkout -b <branch-name>
-
-# Adding all the elements/changes into tracked/staged state
-git add .
-
-# Committing your every change
-git commit -m "<message>"
-
-# Updating your remote repo (or) pushing your commits to your forked repo
-git push origin <branch-name>
 After you're done with your changes, you can push them back to your remote repository. So that you can send me a pull request to merge the changes into the original Repository.
 
-# output of the project:
+# Output of the project:
 
 ![Screenshot from 2023-07-28 16-02-35](https://github.com/imchaitanya0/youtube-clone/assets/108838076/709f576e-aded-4f5b-a9fe-b0e91a8d90db)
