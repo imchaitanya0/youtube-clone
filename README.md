@@ -1,4 +1,4 @@
-  # youtube-clone:
+# youtube-clone:
 
  This project "youtube clone" was assigned to me by codeclause web development team as a task in web development internship.
  The goal of this project is to design a web page that is exactly same as the frontend page of YouTube app which users see when
@@ -56,4 +56,4 @@ After you're done with your changes, you can push them back to your remote repos
 
 # output of the project:
 
-![youtube](https://github.com/imchaitanya0/youtube-clone/assets/108838076/225768d0-a7b5-4d1e-b276-5e7e234e7653)
+![Screenshot from 2023-07-28 16-02-35](https://github.com/imchaitanya0/youtube-clone/assets/108838076/709f576e-aded-4f5b-a9fe-b0e91a8d90db)
