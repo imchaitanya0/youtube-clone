@@ -1,4 +1,4 @@
-  # youtube-clone
+  # youtube-clone:
 
  This project "youtube clone" was assigned to me by codeclause web development team as a task in web development internship.
  The goal of this project is to design a web page that is exactly same as the frontend page of YouTube app which users see when
@@ -54,6 +54,6 @@ git commit -m "<message>"
 git push origin <branch-name>
 After you're done with your changes, you can push them back to your remote repository. So that you can send me a pull request to merge the changes into the original Repository.
 
-# output of the project
+# output of the project:
 
 ![youtube](https://github.com/imchaitanya0/youtube-clone/assets/108838076/225768d0-a7b5-4d1e-b276-5e7e234e7653)
